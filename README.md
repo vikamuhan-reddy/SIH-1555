@@ -1,26 +1,51 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 18/05/25
+## Register Number: 212223240181
+## Name: Vikamuhan reddy
+
 ## Problem Title
-SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
+Smart Refill Station Locator & Tracker for Clean Drinking Water
+
 ## Problem Description
-Background: The AYUSH sector relies heavily on medicinal plants and herbs, which form the backbone of traditional healing practices. However, physical gardens that are not accessible to everyone. A Virtual Herbal Garden will bridge this gap by offering a digital platform where users can explore, learn, and understand the significance of various medicinal plants from the comfort of their homes. Description: Participants are tasked with developing a Virtual Herbal Garden that is engaging, informative, and user-friendly. This virtual garden should include: Interactive 3D Models: Realistic 3D models of medicinal plants that users can rotate, zoom, and explore from different angles. Detailed Information: Comprehensive details about each plant, including its botanical name, common names, habitat, medicinal uses, and methods of cultivation. Multimedia Integration: High-quality images, videos, and audio descriptions to enhance the learning experience. Search and Filter Options: Advanced search functionality to easily locate specific plants and filter them based on various criteria like medicinal uses, region, and type. Virtual Tours: Guided virtual tours highlighting specific themes, such as plants for digestive health, immunity, skin care, etc. User Interaction: Features that allow users to bookmark favourite plants, take notes, and share information on social media. Expected Outcome: The expected outcome is a comprehensive Virtual Herbal Garden that serves as a valuable educational tool for students, practitioners, and enthusiasts of the AYUSH sector. This platform should make the knowledge of medicinal plants accessible to a wider audience, promoting awareness and understanding of traditional herbal practices. It should be visually appealing, informative, and interactive, providing users with an immersive experience that combines technology with traditional knowledge.
+A web-based platform that helps users locate the nearest clean drinking water refill stations using real-time data and geolocation. It also tracks individual water consumption and reduces plastic waste by encouraging users to refill instead of purchasing bottled water. The system displays data on water saved, plastic reduced, and carbon footprint minimized. Integration with local governments or NGOs can help in maintaining updated station data.
 
 ## Problem Creater's Organization
-Ministry of Ayush
+Ministry of Jal Shakti
 
 ## Idea
-
+### 1. Nearest Water Refill Station Locator:
+Use geolocation and GPS-based services to help users find clean water refill stations. Include status indicators (open/closed, filtered/unfiltered) and allow users to rate stations for hygiene and accessibility.
+### 2. User Water Consumption Tracker:
+Let users log their water refills and track monthly/yearly water consumption and estimate plastic bottles saved.
+### 3.Educational Pop-ups on Water Waste & Plastic Pollution:
+Provide informative insights on how bottled water consumption contributes to environmental damage and health hazards.
+### 4.Incentive & Badge System:
+Reward users with digital badges and points for using refill stations. Partner with eco-friendly brands to offer discounts or vouchers.
+### 5.Analytics Dashboard for Refill Station Operators:
+Provide refill station owners or municipalities with dashboards displaying usage frequency, maintenance alerts, and feedback trends.
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/b2926640-80e8-4c08-aec8-8f928ff08fac)
 
 
 ## Use Cases
-
+1. A commuter searches for the nearest water refill station using current location.
+2. A user logs daily refills and views water saved statistics.
+3. A refill station owner tracks footfall and monitors tank cleaning schedules.
+4. A municipality analyzes city-wide plastic waste reduction via user participation
 
 ## Technology Stack
+- Frontend: React.js
+- Backend: Node.js
+- Database: PostgreSQL
+- Maps & Geolocation: Google Maps API
+- Authentication: Firebase Auth
+- Version Control & Testing: Git, Postman
+
 
 
 ## Dependencies
+Mapping Integration & Testing: 10 days
+Water Station Data Onboarding & Verification: 10 days
+Budget: ₹60,000
 
