@@ -25,7 +25,8 @@ Reward users with digital badges and points for using refill stations. Partner w
 Provide refill station owners or municipalities with dashboards displaying usage frequency, maintenance alerts, and feedback trends.
 
 ## Proposed Solution / Architecture Diagram
-![image](https://github.com/user-attachments/assets/b2926640-80e8-4c08-aec8-8f928ff08fac)
+![rename](https://github.com/user-attachments/assets/d8ce9ad0-eb83-4893-a54a-81bdcd4125b3)
+
 
 
 ## Use Cases
